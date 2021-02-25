@@ -16,6 +16,17 @@ namespace WindowsFormsApp17
         {
             InitializeComponent();
              
+        
+        
         }
+       public void mtdnose()
+        {
+            int 2020;
+            
+             
+        
+        
+        } 
     }
+    
 }
